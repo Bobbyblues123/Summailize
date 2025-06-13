@@ -1,20 +1,20 @@
-# 📬 Summailize
+# Summailize
 
 Summailize is a smart email assistant that automatically fetches unread Gmail messages, summarizes them using Google Gemini AI, categorizes them into types (like Job Opportunity, Event, Promotion, etc.), applies labels inside Gmail, and shows you desktop notifications. Built for users who find it inconvenient to navigate through thousands of unread emails.
 
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔐 OAuth2-based Gmail Authentication
-- 📥 Reads your **latest unread email**
-- 🧠 Summarizes content using **Gemini AI**
-- 🗂 Automatically classifies as: `Job Opportunity`, `Promotion`, `Event`, `Newsletter`, etc. or `Other`
-- 📌 Applies Gmail labels using **Gmail API**
-- 🖥 Sends native macOS desktop notifications
-- 🔬 Unit tested (mocked API responses)
-- 🌐 Flask backend ready for frontend integration
+- OAuth2-based Gmail Authentication
+- Reads your **latest unread email**
+- Summarizes content using **Gemini AI**
+- Automatically classifies as: `Job Opportunity`, `Promotion`, `Event`, `Newsletter`, etc. or `Other`
+- Applies Gmail labels using **Gmail API**
+- Sends native macOS desktop notifications
+- Unit tested (mocked API responses)
+- Flask backend ready for frontend integration
 
 ---
 

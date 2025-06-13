@@ -33,7 +33,7 @@ Summailize/
 │   ├── test_summarizer.py      # Unit tests for summarizer logic
 ├── credentials.json            # Gmail API credentials
 ├── token.json                  # Auto-generated token file
-├── tests/
+├── assets/
 │   ├── gmailsummarizerlogo.png # Icon for notifications
 
 ├── requirements.txt            # All pip dependencies

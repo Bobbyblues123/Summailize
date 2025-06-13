@@ -14,7 +14,6 @@ Summailize is a smart email assistant that automatically fetches unread Gmail me
 - Applies Gmail labels using **Gmail API**
 - Sends native macOS desktop notifications
 - Unit tested (mocked API responses)
-- Flask backend ready for frontend integration
 
 ---
 
